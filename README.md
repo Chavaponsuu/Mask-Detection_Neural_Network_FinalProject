@@ -11,6 +11,12 @@ A lightweight, stabilized face mask detection system using DNN face detection an
 - ✅ **Easy to use** - Simple setup and controls
 
 ## Quick Start
+### Download full Datasets here
+Link to Download Complete Dataset: 
+https://github.com/TheSSJ2612/Real-Time-Medical-Mask-Detection/releases/download/v0.1/Dataset.zip
+
+
+
 
 ### 1. Install Dependencies
 
