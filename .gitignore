@@ -71,3 +71,7 @@ Thumbs.db
 # Training outputs
 runs/
 wandb/
+git train 
+
+
+datasets/
